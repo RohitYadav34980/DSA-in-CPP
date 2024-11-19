@@ -1,0 +1,10 @@
+Bubble sort                     O(n^2)
+insertion sort                  O(n^2)
+selection sort                  O(n^2)
+Merge sort
+Qwick sort
+Heap sort
+Shell sort
+Radix sort
+Counting sort
+Bucket sort
